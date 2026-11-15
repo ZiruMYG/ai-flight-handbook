@@ -6,6 +6,8 @@
 
 > 一句话：AI 不是聊天框里的玩具，是一支能替你干活的施工队。
 
+在线看：[案例画廊](https://zirumyg.github.io/ai-flight-handbook/cases/) · [仓库主页](https://zirumyg.github.io/ai-flight-handbook/)
+
 ![封面](preview/cover.png)
 
 ## 8 个案例：一句话，一个 HTML
