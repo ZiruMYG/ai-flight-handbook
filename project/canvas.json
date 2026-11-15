@@ -1,0 +1,199 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "cover.dc.html": {
+      "h": 1000,
+      "title": "封面 · AI起飞心法 · 入门篇",
+      "w": 1600,
+      "x": 0,
+      "y": -1144
+    },
+    "Main.dc.html": {
+      "h": 1000,
+      "title": "开篇 · 无需代码，只需许愿",
+      "w": 1600,
+      "x": 1680,
+      "y": -1144
+    },
+    "front.dc.html": {
+      "h": 1000,
+      "title": "能力前线 · 现在的 AI 已经不是帮你写一段",
+      "w": 1600,
+      "x": 3360,
+      "y": -1144
+    },
+    "ch01-agent.dc.html": {
+      "h": 1000,
+      "title": "01 Agent",
+      "w": 1600,
+      "x": 5040,
+      "y": -1144
+    },
+    "ch02-context.dc.html": {
+      "h": 1000,
+      "title": "02 上下文",
+      "w": 1600,
+      "x": 6720,
+      "y": -1144
+    },
+    "ch05-harness.dc.html": {
+      "h": 1000,
+      "title": "03 Harness",
+      "w": 1600,
+      "x": 0,
+      "y": 0
+    },
+    "ch06-api.dc.html": {
+      "h": 1000,
+      "title": "04 API",
+      "w": 1600,
+      "x": 1680,
+      "y": 0
+    },
+    "ch08-skill.dc.html": {
+      "h": 1000,
+      "title": "05 Skill",
+      "w": 1600,
+      "x": 3360,
+      "y": 0
+    },
+    "ch09-reuse.dc.html": {
+      "h": 1000,
+      "title": "06 复用",
+      "w": 1600,
+      "x": 5040,
+      "y": 0
+    },
+    "ch09b-talk.dc.html": {
+      "h": 1000,
+      "title": "07 多说",
+      "w": 1600,
+      "x": 6720,
+      "y": 0
+    },
+    "ch09-wish.dc.html": {
+      "h": 1000,
+      "title": "08 许愿",
+      "w": 1600,
+      "x": 0,
+      "y": 1120
+    },
+    "ch10-fleet.dc.html": {
+      "h": 1000,
+      "title": "09 舰队",
+      "w": 1600,
+      "x": 1680,
+      "y": 1120
+    },
+    "ch11-taste.dc.html": {
+      "h": 1000,
+      "title": "10 品味",
+      "w": 1600,
+      "x": 3360,
+      "y": 1120
+    },
+    "tpl.dc.html": {
+      "h": 1000,
+      "title": "带走一页 · 万能三板斧",
+      "w": 1600,
+      "x": 5040,
+      "y": 1120
+    },
+    "jobs1-market.dc.html": {
+      "h": 1000,
+      "title": "10 个活 · 01 市场 / 运营",
+      "w": 1600,
+      "x": 6720,
+      "y": 1120
+    },
+    "jobs2-hr.dc.html": {
+      "h": 1000,
+      "title": "10 个活 · 02 HR / 行政",
+      "w": 1600,
+      "x": 0,
+      "y": 2240
+    },
+    "jobs3-product.dc.html": {
+      "h": 1000,
+      "title": "10 个活 · 03 产品 / 研发",
+      "w": 1600,
+      "x": 1680,
+      "y": 2240
+    },
+    "jobs4-finance.dc.html": {
+      "h": 1000,
+      "title": "10 个活 · 04 财务 / 法务",
+      "w": 1600,
+      "x": 3360,
+      "y": 2240
+    },
+    "jobs5-all.dc.html": {
+      "h": 1000,
+      "title": "10 个活 · 05 全员 / 管理",
+      "w": 1600,
+      "x": 5040,
+      "y": 2240
+    },
+    "week.dc.html": {
+      "h": 1000,
+      "title": "第一周怎么开始",
+      "w": 1600,
+      "x": 6720,
+      "y": 2240
+    }
+  },
+  "createdOnFiles": {
+    "at": "2026-11-14T01:59:22Z",
+    "v": 1
+  },
+  "designSystems": [],
+  "launch": {
+    "view": "canvas"
+  },
+  "noteOrder": [
+    "c-title",
+    "c-howto"
+  ],
+  "notes": {
+    "c-howto": {
+      "fill": "orange",
+      "text": "改细节的方式：在画布上点选任意元素，留下评论说明要改什么；我按评论直接改这一屏的 HTML。",
+      "w": 380,
+      "x": 8400,
+      "y": 0
+    },
+    "c-title": {
+      "kind": "title1",
+      "maxW": 8000,
+      "text": "AI起飞心法 · 10 个心法",
+      "w": 240,
+      "x": 0,
+      "y": -1800
+    }
+  },
+  "order": [
+    "cover.dc.html",
+    "Main.dc.html",
+    "front.dc.html",
+    "ch01-agent.dc.html",
+    "ch02-context.dc.html",
+    "ch05-harness.dc.html",
+    "ch06-api.dc.html",
+    "ch08-skill.dc.html",
+    "ch09-reuse.dc.html",
+    "ch09b-talk.dc.html",
+    "ch09-wish.dc.html",
+    "ch10-fleet.dc.html",
+    "ch11-taste.dc.html",
+    "tpl.dc.html",
+    "jobs1-market.dc.html",
+    "jobs2-hr.dc.html",
+    "jobs3-product.dc.html",
+    "jobs4-finance.dc.html",
+    "jobs5-all.dc.html",
+    "week.dc.html"
+  ],
+  "pages": [],
+  "title": "AI起飞心法 · 10 个心法"
+}

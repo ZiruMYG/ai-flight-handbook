@@ -1,0 +1,14 @@
+# 保持单文件 HTML 原样；二进制素材不做换行转换
+* -text
+*.html text eol=lf
+*.json text eol=lf
+*.md text eol=lf
+*.svg text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.bin binary
